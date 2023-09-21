@@ -1,0 +1,4 @@
+# edge-theory
+Commit 2
+Date: 2023-09-21T02:33:45Z
+Add core module
