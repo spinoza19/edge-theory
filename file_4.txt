@@ -1,4 +1,0 @@
-# edge-theory
-Commit 5
-Date: 2024-04-21T09:18:34Z
-Update dependencies
