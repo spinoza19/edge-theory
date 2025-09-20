@@ -1,4 +1,0 @@
-# edge-theory
-Commit 8
-Date: 2025-05-23T21:34:18Z
-Add documentation
